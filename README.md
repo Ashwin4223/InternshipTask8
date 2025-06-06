@@ -17,7 +17,7 @@ To explore how VPNs change IP addresses, encrypt traffic, affect browsing speed,
 - Downloaded and installed via Chrome Web Store.
 
 📸 **Screenshot:**
-![VPN Installed](screenshots/vpn-installed.png)
+<img width="1440" alt="vpn-installed" src="https://github.com/user-attachments/assets/b00803d7-9bff-49b4-a707-37a1ce62444f" />
 
 ---
 
@@ -28,7 +28,8 @@ To explore how VPNs change IP addresses, encrypt traffic, affect browsing speed,
 - Successfully connected.
 
 📸 **Screenshot:**
-![VPN Setup](screenshots/vpn-extension-setup.png)
+
+<img width="442" alt="vpn-extension-setup" src="https://github.com/user-attachments/assets/ad7eb5e4-bf83-40b8-b02d-2e6945256a64" />
 
 ---
 
@@ -37,10 +38,10 @@ To explore how VPNs change IP addresses, encrypt traffic, affect browsing speed,
 
 📸 **Screenshots:**
 - Before VPN:  
-  ![IP Before](screenshots/ip-before.png)
+  <img width="1440" alt="ip-before" src="https://github.com/user-attachments/assets/f9cfe1cd-db6b-474a-abfb-606b394cf6ef" />
 
 - After VPN (Amsterdam IP):  
-  ![IP After](screenshots/ip-after.png)
+  <img width="1440" alt="ip-after" src="https://github.com/user-attachments/assets/1b738643-f61a-4b48-ae8d-60352f0d60a6" />
 
 ---
 
@@ -51,7 +52,7 @@ To confirm encrypted traffic:
 - Click “Connection is secure” → then “Certificate” to view HTTPS encryption details.
 
 📸 **Screenshot:**
-![Encrypted Connection](screenshots/encryption-confirmation.png)
+<img width="869" alt="encryption-confirmation" src="https://github.com/user-attachments/assets/d161295a-062e-4b4c-9eb0-c0afaa3b076b" />
 
 ---
 
@@ -60,8 +61,8 @@ To confirm encrypted traffic:
 - Compared IP and browsing speed on the same website.
 
 📸 **Screenshot:**
-![Speed Comparison(Local)](screenshots/speed-comparison(before).png)
-![Speed Comparison(VPN)](screenshots/speed-comparison(after).png)
+<img width="1440" alt="speed-comparison(before)" src="https://github.com/user-attachments/assets/fee58bdc-baac-4eac-8529-473ede17bc61" />
+<img width="1440" alt="speed-comparison(after)" src="https://github.com/user-attachments/assets/63affb0b-04d6-4082-a9cf-ce41c0fa69ef" />
 
 ---
 
